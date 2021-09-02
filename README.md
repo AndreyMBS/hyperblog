@@ -10,6 +10,7 @@ Vemos:
 * Comandos de Git.
 * Flujo de trabajo en GitHub.
 * Amor por las buenas prácticas.
+* Creado por el increíble estudio Team
 
 **Éste README.md es un chiste, si usted llegó hasta acá por favor no se lo tome en serio :)**
 
